@@ -44,3 +44,6 @@
 - Dataset (survey-based)
 - Power BI dashboard
 - Project report
+
+# Dashboard Preview
+![Dashboard](dashboard.png)
